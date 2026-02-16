@@ -1,0 +1,16 @@
+name: clearissa_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.4
+  - numpy=1.26.0         
+  - pandas=2.1.1
+  - scipy=1.11.4
+  - matplotlib=3.8.0
+  - pyqt=5               
+  - pyqtgraph
+  - tabulate
+  - openpyxl
+  - sympy
+  
