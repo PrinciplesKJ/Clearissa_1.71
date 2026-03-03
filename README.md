@@ -1,5 +1,8 @@
 # Clearissa
 
+Built for researchers running toehold/handhold-mediated strand displacement or FRET experiments on CLARIOstar plate readers.
+Handles multi-channel fluorescence data, kinetic fitting, and concentration conversion in one desktop app — no coding required.
+
 ## Rollout of the Clearissa Data Analysis Software
 
 Clearissa is a data analysis platform for multi-channel fluorescence spectroscopy. It streamlines data import from plate readers, provides visualisation tools, and supports kinetic modelling workflows for DNA and RNA strand displacement fluorescence and FRET experiments.
