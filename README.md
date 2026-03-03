@@ -38,7 +38,7 @@ pip install -r requirements.txt
 python core/Clearissa_main.py
 ```
 
-Tip: If running from a packaged build, use the provided executable instead of the Python entry point.
+-> If running from a packaged build (dist folder), use the provided executable instead of the Python entry point.
 
 ## Building an Executable
 
