@@ -1,7 +1,7 @@
 # Clearissa
 
 Built for researchers running toehold/handhold-mediated strand displacement or FRET experiments on CLARIOstar plate readers.
-Handles multi-channel fluorescence data, kinetic fitting, and concentration conversion in one desktop app — no coding required.
+Handles multi-channel fluorescence data, kinetic fitting, and concentration conversion in one desktop app.
 
 ## Rollout of the Clearissa Data Analysis Software
 
